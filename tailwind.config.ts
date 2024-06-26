@@ -13,6 +13,20 @@ const config: Config = {
         "gradient-conic":
           "conic-gradient(from 180deg at 50% 50%, var(--tw-gradient-stops))",
       },
+      colors: {
+        OuterSpace: {
+          0: "#30353b",
+          10: "#45494f",
+          20: "#595d62",
+          30: "#6e7276",
+          40: "#838689",
+          50: "#989a9d",
+          60: "#acaeb1",
+          70: "#c1c2c4",
+          80: "#d6d7d8",
+          90: "#eaebeb",
+        },
+      },
     },
   },
   plugins: [],
