@@ -2,7 +2,7 @@ export default function Page() {
   return (
     <>
       <br />
-      <h1>Dashboard</h1>
+      <h1>Dashboard content</h1>
     </>
   );
 }
